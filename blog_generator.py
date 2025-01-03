@@ -8,7 +8,6 @@ from datetime import datetime
 
 def ensure_model_available(model_name):
     """Ensure the model[
-        "Researchers", "Data Scientists", "Common People", "Students", "Entrepreneurs",
         "Marketers", "Tech Enthusiasts", "Environmentalists", "Educators", "Healthcare Professionals",
         "Investors", "Content Creators", "Policy Makers", "Journalists", "Travel Enthusiasts",
         "Parents", "Artists", "Fitness Enthusiasts", "Engineers", "Historians",
